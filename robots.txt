@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-0ude95.introduse.me/sitemap.xml
